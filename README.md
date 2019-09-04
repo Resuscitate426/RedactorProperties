@@ -1,0 +1,1 @@
+Simple project on C# for redacoring property object

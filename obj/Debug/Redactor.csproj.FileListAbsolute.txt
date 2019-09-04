@@ -1,0 +1,10 @@
+D:\VisualProjects\Redactor\bin\Debug\Redactor.exe.config
+D:\VisualProjects\Redactor\bin\Debug\Redactor.exe
+D:\VisualProjects\Redactor\bin\Debug\Redactor.pdb
+D:\VisualProjects\Redactor\obj\Debug\Redactor.csprojAssemblyReference.cache
+D:\VisualProjects\Redactor\obj\Debug\Redactor.Form1.resources
+D:\VisualProjects\Redactor\obj\Debug\Redactor.Properties.Resources.resources
+D:\VisualProjects\Redactor\obj\Debug\Redactor.csproj.GenerateResource.cache
+D:\VisualProjects\Redactor\obj\Debug\Redactor.csproj.CoreCompileInputs.cache
+D:\VisualProjects\Redactor\obj\Debug\Redactor.exe
+D:\VisualProjects\Redactor\obj\Debug\Redactor.pdb
